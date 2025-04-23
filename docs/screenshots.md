@@ -4,7 +4,7 @@ This page showcases the AccessPointWiFi Manager interface and different UI custo
 
 ## Default iOS-inspired Interface
 
-![Main Interface](docs/screenshots/main interface (dekstop).png)
+![Main Interface](docs/screenshots/main interface (dekstop).png),![alt text](<screenshots/main interface (phone).png>), [text](screenshots/demo.webm)
 *The default interface with iOS-inspired design*
 
 ![Network Scanning](https://i.imgur.com/LCWg5mZ.png)
