@@ -36,18 +36,21 @@ A sleek, modern WiFi configuration manager for ESP8266 devices with an iOS-inspi
 - **Fallback Mode**: Automatically creates an AP if WiFi connection fails
 - **Secure Storage**: Credentials stored in EEPROM
 
-## 📱 User Interface
+## 📱 User Interface (Local Screenshots & Demo)
 
-The WiFi Manager features a beautiful, iOS-inspired interface that works great on both mobile and desktop devices:
+### Main Interface (Desktop)
 
-![WiFi Manager Interface](https://i.imgur.com/ZkNhTnM.png)
+![Main Interface Desktop](docs/screenshots/main interface (dekstop).png)
 
-- **Responsive Design**: Optimized for all screen sizes
-- **Network Monitor**: Real-time connection status and signal strength
-- **Connection Statistics**: Track network reliability and history
-- **Device Settings**: Customize AP name and password
+### Main Interface (Phone)
 
-See more [screenshots](docs/screenshots.md) showing various customization options.
+![Main Interface Phone](docs/screenshots/main interface (phone).png)
+
+### Demo Video
+
+<video src="docs/screenshots/demo.webm" controls width="400"></video>
+
+*The default interface with iOS-inspired design*
 
 ## 🛠️ Installation
 
@@ -189,4 +192,4 @@ If you found it useful, consider showing some love!
 
 ## 👨‍💻 Creator
 
-Created by [haadziq](https://teer.id/haadziq_fatkhiya) 
+Created by [haadziq](https://teer.id/haadziq_fatkhiya)

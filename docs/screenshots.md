@@ -2,10 +2,23 @@
 
 This page showcases the AccessPointWiFi Manager interface and different UI customization options to help you visualize the possibilities.
 
-## Default iOS-inspired Interface
+## Local Screenshots & Demo
 
-![Main Interface](docs/screenshots/main interface (dekstop).png),![alt text](<screenshots/main interface (phone).png>), [text](screenshots/demo.webm)
+### Main Interface (Desktop)
+
+![Main Interface Desktop](screenshots/main interface (dekstop).png)
+
+### Main Interface (Phone)
+
+![Main Interface Phone](screenshots/main interface (phone).png)
+
+### Demo Video
+
+<video src="screenshots/demo.webm" controls width="400"></video>
+
 *The default interface with iOS-inspired design*
+
+## Default iOS-inspired Interface
 
 ![Network Scanning](https://i.imgur.com/LCWg5mZ.png)
 *Scanning for available networks*
@@ -64,4 +77,4 @@ This page showcases the AccessPointWiFi Manager interface and different UI custo
 
 ---
 
-*Note: These screenshots are examples and may vary slightly from the current version.* 
+*Note: These screenshots are examples and may vary slightly from the current version.*
