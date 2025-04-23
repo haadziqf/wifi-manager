@@ -1,0 +1,13 @@
+WiFi Manager v.1.2
+
+This version includes:
+- Modern iOS-like UI with card-based layout
+- WiFi scanning with signal strength indicators
+- Device settings with AP configuration
+- Bottom IP address bar with refresh button
+- Modal for AP settings configuration
+- Limited connection attempts (2 times)
+- Improved error handling and user feedback
+- Modular design for easy customization
+
+Date: 2023-09-15 
